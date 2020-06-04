@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1499401513 source:c:\users\rahul\desktop\now\main.cpp
+	<ctime>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1516936765 source:a:\computer science\projects\rj working donot touch\main.cpp
+	<ctime>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
